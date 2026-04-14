@@ -1,0 +1,24 @@
+.HeroDiv {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.Avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.Name {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.Hobby,
+.Role,
+.Stack,
+.Country {
+  font-size: 18px;
+  color: var(--text-color);
+}

@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  background-color: var(--background-color);
+  padding: 20px;
+}
+
+.Background {
+  border-radius: 35px;
+  background-color: var(--primary-color);
+}
